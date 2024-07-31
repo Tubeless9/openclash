@@ -1,0 +1,5 @@
+# 代理补充列表
+
+# > 域名匹配
+# - 解决谷歌商店无法下载问题
+DOMAIN,services.googleapis.cn

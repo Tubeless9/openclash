@@ -1,3 +1,5 @@
 payload:
   # > 讯牛
   - DOMAIN-SUFFIX,xunniuyun.com
+  # > ROSE
+  - DOMAIN-SUFFIX,roseserver.top

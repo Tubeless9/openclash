@@ -1,0 +1,4 @@
+payload:
+  # 此规则为国内规则补充
+  # > 不忘初心
+  - DOMAIN-SUFFIX,pc528.net

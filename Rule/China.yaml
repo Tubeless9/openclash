@@ -6,4 +6,7 @@ payload:
   # > 797发卡
   - DOMAIN-SUFFIX,pay777.love
   - DOMAIN-SUFFIX,pay777.fit
+  # > 95云寄售
+  - DOMAIN-SUFFIX,95fk.net
+  
   

@@ -3,3 +3,7 @@ payload:
   # > 不忘初心
   - DOMAIN-SUFFIX,pc528.net
   - IP-CIDR,47.57.4.127/32
+  # > 797发卡
+  - DOMAIN-SUFFIX,pay777.love
+  - DOMAIN-SUFFIX,pay777.fit
+  

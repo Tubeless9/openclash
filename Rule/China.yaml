@@ -8,5 +8,8 @@ payload:
   - DOMAIN-SUFFIX,pay777.fit
   # > 95云寄售
   - DOMAIN-SUFFIX,95fk.net
+  # > TV
+  - DOMAIN-KEYWORD,dious,DIRECT
+  - DOMAIN-KEYWORD,fsvod,DIRECT
   
   

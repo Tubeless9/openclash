@@ -11,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,qqupload.com
   # > YIFile
   - DOMAIN-SUFFIX,feisupan.cn
+  - IP-CIDR,46.137.220.65/32

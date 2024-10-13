@@ -1,6 +1,17 @@
 payload:
   # 国内补充
   # 不走代理补充
+    # > 不忘初心
+  - DOMAIN-SUFFIX,pc528.net
+  - IP-CIDR,47.57.4.127/32
+  # > 797发卡
+  - DOMAIN-SUFFIX,pay777.love
+  - DOMAIN-SUFFIX,pay777.fit
+  # > 95云寄售
+  - DOMAIN-SUFFIX,95fk.net
+  # > TV
+  - DOMAIN-KEYWORD,dious,DIRECT
+  - DOMAIN-KEYWORD,fsvod,DIRECT
   # > 讯牛
   - DOMAIN-SUFFIX,xunniuyun.com
   # > ROSE

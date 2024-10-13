@@ -1,5 +1,6 @@
 payload:
-  # 国内网盘
+  # 国内补充
+  # 不走代理补充
   # > 讯牛
   - DOMAIN-SUFFIX,xunniuyun.com
   # > ROSE
@@ -12,3 +13,5 @@ payload:
   # > YIFile
   - DOMAIN-SUFFIX,feisupan.cn
   - IP-CIDR,46.137.220.65/32
+  # > notdiamond
+  - DOMAIN-SUFFIX,notdiamond.ai

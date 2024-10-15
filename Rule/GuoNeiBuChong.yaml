@@ -1,6 +1,5 @@
 payload:
-  # 国内补充
-  # 不走代理补充
+    # 需要直连的规则补充
     # > 不忘初心
   - DOMAIN-SUFFIX,pc528.net
   - IP-CIDR,47.57.4.127/32
@@ -26,3 +25,5 @@ payload:
   - IP-CIDR,46.137.220.65/32
   # > notdiamond
   - DOMAIN-SUFFIX,notdiamond.ai
+  # > 夜色王朝
+  - DOMAIN-SUFFIX,yesebbs.com

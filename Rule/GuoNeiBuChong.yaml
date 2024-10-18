@@ -11,6 +11,7 @@ payload:
   # > TV
   - DOMAIN-KEYWORD,dious,DIRECT
   - DOMAIN-KEYWORD,fsvod,DIRECT
+  - DOMAIN-KEYWORD,ffzy,DIRECT
   # > 讯牛
   - DOMAIN-SUFFIX,xunniuyun.com
   # > ROSE
